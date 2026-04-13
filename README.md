@@ -22,6 +22,8 @@ Postgres is ACID-compliant, and the presentation shows you how this happens. To 
 
 How does Postgres control where data is stored and when it is stored? The presentation introduces you to some interesting and exciting concepts. 
 
+Find the presentation [here](https://github.com/kiwavi/postgres-architecture-presentation/blob/main/Postgres_Architecture_Presentation-2.pdf) 
+
 For further reading, you can look into the following resources:
 
 * [Postgres Docs](https://www.postgresql.org/docs/current/overview.html)
